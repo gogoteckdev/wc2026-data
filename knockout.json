@@ -1,4 +1,5 @@
 {
   "g01": { "homeScore": 2, "awayScore": 0 },
-  "g02": { "homeScore": 2, "awayScore": 1 }
+  "g02": { "homeScore": 2, "awayScore": 1 },
+  "g03": { "homeScore": 1, "awayScore": 1 }
 }
