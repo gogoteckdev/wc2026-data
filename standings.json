@@ -1,8 +1,9 @@
 {
   "A": [
         { "team": "Mexico",       "flag": "🇲🇽", "played": 1, "won": 1, "drawn": 0, "lost": 0, "gf": 2, "ga": 0, "pts": 3 },
-        { "team": "South Africa", "flag": "🇿🇦", "played": 1, "won": 0, "drawn": 0, "lost": 1, "gf": 0, "ga": 2, "pts": 0 }
-
+        { "team": "Rep. of Korea","flag": "🇰🇷", "played": 1, "won": 1, "drawn": 0, "lost": 0, "gf": 2, "ga": 1, "pts": 3 },
+        { "team": "South Africa", "flag": "🇿🇦", "played": 1, "won": 0, "drawn": 0, "lost": 1, "gf": 0, "ga": 2, "pts": 0 },
+        { "team": "Czech Rep.",   "flag": "🇨🇿", "played": 1, "won": 0, "drawn": 0, "lost": 1, "gf": 1, "ga": 2, "pts": 0 }
   ], 
   "B": [
     
