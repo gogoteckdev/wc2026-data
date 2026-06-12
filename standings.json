@@ -6,7 +6,8 @@
         { "team": "Czech Rep.",   "flag": "🇨🇿", "played": 1, "won": 0, "drawn": 0, "lost": 1, "gf": 1, "ga": 2, "pts": 0 }
   ], 
   "B": [
-    
+        { "team": "Bosnia/Herzeg.", "flag": "🇧🇦", "played": 1, "won": 0, "drawn": 1, "lost": 0, "gf": 1, "ga": 1, "pts": 1 },
+        { "team": "Canada",   "flag": "🇨🇦", "played": 1, "won": 0, "drawn": 1, "lost": 0, "gf": 1, "ga": 1, "pts": 1 }
   ], 
   "C": [
     
