@@ -18,10 +18,10 @@
     { "team": "Haiti",         "flag": "🇭🇹", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "pts": 0 }
   ],
   "D": [
-    { "team": "USA",           "flag": "🇺🇸", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "pts": 0 },
+    { "team": "USA",           "flag": "🇺🇸", "played": 1, "won": 1, "drawn": 0, "lost": 0, "gf": 3, "ga": 1, "pts": 3 },
+    { "team": "Paraguay",      "flag": "🇵🇾", "played": 1, "won": 0, "drawn": 0, "lost": 1, "gf": 1, "ga": 3, "pts": 0 },
     { "team": "Australia",     "flag": "🇦🇺", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "pts": 0 },
-    { "team": "Turkey",        "flag": "🇹🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "pts": 0 },
-    { "team": "Paraguay",      "flag": "🇵🇾", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "pts": 0 }
+    { "team": "Turkey",        "flag": "🇹🇷", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "pts": 0 }
   ],
   "E": [
     { "team": "Germany",       "flag": "🇩🇪", "played": 0, "won": 0, "drawn": 0, "lost": 0, "gf": 0, "ga": 0, "pts": 0 },
