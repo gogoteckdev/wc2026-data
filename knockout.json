@@ -1,7 +1,26 @@
 {
-  "g01": { "homeScore": 2, "awayScore": 0 },
-  "g02": { "homeScore": 2, "awayScore": 1 },
-  "g03": { "homeScore": 1, "awayScore": 1 },
-  "g04": { "homeScore": 4, "awayScore": 1 },
-  "g08": { "homeScore": 1, "awayScore": 1 }
+  "g01": {
+    "homeScore": 2,
+    "awayScore": 0
+  },
+  "g02": {
+    "homeScore": 2,
+    "awayScore": 1
+  },
+  "g03": {
+    "homeScore": 1,
+    "awayScore": 1
+  },
+  "g04": {
+    "homeScore": 4,
+    "awayScore": 1
+  },
+  "g07": {
+    "homeScore": 1,
+    "awayScore": 1
+  },
+  "g08": {
+    "homeScore": 1,
+    "awayScore": 1
+  }
 }
