@@ -233,24 +233,24 @@
     {
       "team": "Japan",
       "flag": "🇯🇵",
-      "played": 0,
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
+      "gf": 2,
+      "ga": 2,
+      "pts": 1
     },
     {
       "team": "Netherlands",
       "flag": "🇳🇱",
-      "played": 0,
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
+      "gf": 2,
+      "ga": 2,
+      "pts": 1
     },
     {
       "team": "Sweden",
