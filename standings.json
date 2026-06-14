@@ -185,30 +185,19 @@
   ],
   "E": [
     {
-      "team": "Curaçao",
-      "flag": "🇨🇼",
-      "played": 0,
-      "won": 0,
+      "team": "Germany",
+      "flag": "🇩🇪",
+      "played": 1,
+      "won": 1,
       "drawn": 0,
       "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
+      "gf": 7,
+      "ga": 1,
+      "pts": 3
     },
     {
       "team": "Ecuador",
       "flag": "🇪🇨",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
-    },
-    {
-      "team": "Germany",
-      "flag": "🇩🇪",
       "played": 0,
       "won": 0,
       "drawn": 0,
@@ -226,6 +215,17 @@
       "lost": 0,
       "gf": 0,
       "ga": 0,
+      "pts": 0
+    },
+    {
+      "team": "Curaçao",
+      "flag": "🇨🇼",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "gf": 1,
+      "ga": 7,
       "pts": 0
     }
   ],
