@@ -231,6 +231,17 @@
   ],
   "F": [
     {
+      "team": "Sweden",
+      "flag": "🇸🇪",
+      "played": 1,
+      "won": 1,
+      "drawn": 0,
+      "lost": 0,
+      "gf": 5,
+      "ga": 1,
+      "pts": 3
+    },
+    {
       "team": "Japan",
       "flag": "🇯🇵",
       "played": 1,
@@ -253,25 +264,14 @@
       "pts": 1
     },
     {
-      "team": "Sweden",
-      "flag": "🇸🇪",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
-    },
-    {
       "team": "Tunisia",
       "flag": "🇹🇳",
-      "played": 0,
+      "played": 1,
       "won": 0,
       "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
+      "lost": 1,
+      "gf": 1,
+      "ga": 5,
       "pts": 0
     }
   ],
