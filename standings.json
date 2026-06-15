@@ -325,28 +325,28 @@
     {
       "team": "Cape Verde",
       "flag": "🇨🇻",
-      "played": 0,
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
       "gf": 0,
       "ga": 0,
-      "pts": 0
-    },
-    {
-      "team": "Saudi Arabia",
-      "flag": "🇸🇦",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
+      "pts": 1
     },
     {
       "team": "Spain",
       "flag": "🇪🇸",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "gf": 0,
+      "ga": 0,
+      "pts": 1
+    },
+    {
+      "team": "Saudi Arabia",
+      "flag": "🇸🇦",
       "played": 0,
       "won": 0,
       "drawn": 0,
