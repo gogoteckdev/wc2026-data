@@ -277,6 +277,28 @@
   ],
   "G": [
     {
+      "team": "IR Iran",
+      "flag": "🇮🇷",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "gf": 2,
+      "ga": 2,
+      "pts": 1
+    },
+    {
+      "team": "New Zealand",
+      "flag": "🇳🇿",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "gf": 2,
+      "ga": 2,
+      "pts": 1
+    },
+    {
       "team": "Belgium",
       "flag": "🇧🇪",
       "played": 1,
@@ -297,28 +319,6 @@
       "gf": 1,
       "ga": 1,
       "pts": 1
-    },
-    {
-      "team": "IR Iran",
-      "flag": "🇮🇷",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
-    },
-    {
-      "team": "New Zealand",
-      "flag": "🇳🇿",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
     }
   ],
   "H": [
