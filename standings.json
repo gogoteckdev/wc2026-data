@@ -415,26 +415,15 @@
   ],
   "J": [
     {
-      "team": "Algeria",
-      "flag": "🇩🇿",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
-    },
-    {
       "team": "Argentina",
       "flag": "🇦🇷",
-      "played": 0,
-      "won": 0,
+      "played": 1,
+      "won": 1,
       "drawn": 0,
       "lost": 0,
-      "gf": 0,
+      "gf": 3,
       "ga": 0,
-      "pts": 0
+      "pts": 3
     },
     {
       "team": "Austria",
@@ -456,6 +445,17 @@
       "lost": 0,
       "gf": 0,
       "ga": 0,
+      "pts": 0
+    },
+    {
+      "team": "Algeria",
+      "flag": "🇩🇿",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "gf": 0,
+      "ga": 3,
       "pts": 0
     }
   ],
