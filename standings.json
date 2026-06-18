@@ -461,30 +461,30 @@
   ],
   "K": [
     {
-      "team": "Colombia",
-      "flag": "🇨🇴",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
-    },
-    {
       "team": "DR Congo",
       "flag": "🇨🇩",
-      "played": 0,
+      "played": 1,
       "won": 0,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
+      "gf": 1,
+      "ga": 1,
+      "pts": 1
     },
     {
       "team": "Portugal",
       "flag": "🇵🇹",
+      "played": 1,
+      "won": 0,
+      "drawn": 1,
+      "lost": 0,
+      "gf": 1,
+      "ga": 1,
+      "pts": 1
+    },
+    {
+      "team": "Colombia",
+      "flag": "🇨🇴",
       "played": 0,
       "won": 0,
       "drawn": 0,
