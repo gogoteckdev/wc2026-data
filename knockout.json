@@ -74,5 +74,9 @@
   "g19": {
     "homeScore": 3,
     "awayScore": 0
+  },
+  "g20": {
+    "homeScore": 3,
+    "awayScore": 1
   }
 }
