@@ -507,26 +507,15 @@
   ],
   "L": [
     {
-      "team": "Croatia",
-      "flag": "🇭🇷",
-      "played": 0,
-      "won": 0,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
-    },
-    {
       "team": "England",
       "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "played": 0,
-      "won": 0,
+      "played": 1,
+      "won": 1,
       "drawn": 0,
       "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 0
+      "gf": 4,
+      "ga": 2,
+      "pts": 3
     },
     {
       "team": "Ghana",
@@ -548,6 +537,17 @@
       "lost": 0,
       "gf": 0,
       "ga": 0,
+      "pts": 0
+    },
+    {
+      "team": "Croatia",
+      "flag": "🇭🇷",
+      "played": 1,
+      "won": 0,
+      "drawn": 0,
+      "lost": 1,
+      "gf": 2,
+      "ga": 4,
       "pts": 0
     }
   ]
