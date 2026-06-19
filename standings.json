@@ -47,6 +47,17 @@
   ],
   "B": [
     {
+      "team": "Canada",
+      "flag": "🇨🇦",
+      "played": 2,
+      "won": 1,
+      "drawn": 1,
+      "lost": 0,
+      "gf": 7,
+      "ga": 1,
+      "pts": 4
+    },
+    {
       "team": "Switzerland",
       "flag": "🇨🇭",
       "played": 2,
@@ -58,28 +69,6 @@
       "pts": 4
     },
     {
-      "team": "Canada",
-      "flag": "🇨🇦",
-      "played": 1,
-      "won": 0,
-      "drawn": 1,
-      "lost": 0,
-      "gf": 1,
-      "ga": 1,
-      "pts": 1
-    },
-    {
-      "team": "Qatar",
-      "flag": "🇶🇦",
-      "played": 1,
-      "won": 0,
-      "drawn": 1,
-      "lost": 0,
-      "gf": 1,
-      "ga": 1,
-      "pts": 1
-    },
-    {
       "team": "Bosnia/Herzeg.",
       "flag": "🇧🇦",
       "played": 2,
@@ -88,6 +77,17 @@
       "lost": 1,
       "gf": 2,
       "ga": 5,
+      "pts": 1
+    },
+    {
+      "team": "Qatar",
+      "flag": "🇶🇦",
+      "played": 2,
+      "won": 0,
+      "drawn": 1,
+      "lost": 1,
+      "gf": 1,
+      "ga": 7,
       "pts": 1
     }
   ],
