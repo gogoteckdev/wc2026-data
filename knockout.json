@@ -106,5 +106,9 @@
   "g27": {
     "homeScore": 6,
     "awayScore": 0
+  },
+  "g28": {
+    "homeScore": 1,
+    "awayScore": 0
   }
 }
