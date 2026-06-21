@@ -142,5 +142,9 @@
   "g38": {
     "homeScore": 5,
     "awayScore": 0
+  },
+  "g39": {
+    "homeScore": 0,
+    "awayScore": 0
   }
 }
