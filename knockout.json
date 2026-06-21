@@ -134,5 +134,9 @@
   "g35": {
     "homeScore": 5,
     "awayScore": 1
+  },
+  "g36": {
+    "homeScore": 0,
+    "awayScore": 4
   }
 }
