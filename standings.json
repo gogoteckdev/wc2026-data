@@ -336,24 +336,24 @@
     {
       "team": "Uruguay",
       "flag": "🇺🇾",
-      "played": 1,
+      "played": 2,
       "won": 0,
-      "drawn": 1,
+      "drawn": 2,
       "lost": 0,
-      "gf": 1,
-      "ga": 1,
-      "pts": 1
+      "gf": 3,
+      "ga": 3,
+      "pts": 2
     },
     {
       "team": "Cape Verde",
       "flag": "🇨🇻",
-      "played": 1,
+      "played": 2,
       "won": 0,
-      "drawn": 1,
+      "drawn": 2,
       "lost": 0,
-      "gf": 0,
-      "ga": 0,
-      "pts": 1
+      "gf": 2,
+      "ga": 2,
+      "pts": 2
     },
     {
       "team": "Saudi Arabia",
