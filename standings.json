@@ -369,6 +369,17 @@
   ],
   "I": [
     {
+      "team": "France",
+      "flag": "🇫🇷",
+      "played": 2,
+      "won": 2,
+      "drawn": 0,
+      "lost": 0,
+      "gf": 6,
+      "ga": 1,
+      "pts": 6
+    },
+    {
       "team": "Norway",
       "flag": "🇳🇴",
       "played": 1,
@@ -376,17 +387,6 @@
       "drawn": 0,
       "lost": 0,
       "gf": 4,
-      "ga": 1,
-      "pts": 3
-    },
-    {
-      "team": "France",
-      "flag": "🇫🇷",
-      "played": 1,
-      "won": 1,
-      "drawn": 0,
-      "lost": 0,
-      "gf": 3,
       "ga": 1,
       "pts": 3
     },
@@ -404,12 +404,12 @@
     {
       "team": "Iraq",
       "flag": "🇮🇶",
-      "played": 1,
+      "played": 2,
       "won": 0,
       "drawn": 0,
-      "lost": 1,
+      "lost": 2,
       "gf": 1,
-      "ga": 4,
+      "ga": 7,
       "pts": 0
     }
   ],
