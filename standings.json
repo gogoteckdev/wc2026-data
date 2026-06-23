@@ -382,23 +382,23 @@
     {
       "team": "Norway",
       "flag": "🇳🇴",
-      "played": 1,
-      "won": 1,
+      "played": 2,
+      "won": 2,
       "drawn": 0,
       "lost": 0,
-      "gf": 4,
-      "ga": 1,
-      "pts": 3
+      "gf": 7,
+      "ga": 3,
+      "pts": 6
     },
     {
       "team": "Senegal",
       "flag": "🇸🇳",
-      "played": 1,
+      "played": 2,
       "won": 0,
       "drawn": 0,
-      "lost": 1,
-      "gf": 1,
-      "ga": 3,
+      "lost": 2,
+      "gf": 3,
+      "ga": 6,
       "pts": 0
     },
     {
