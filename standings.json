@@ -150,17 +150,6 @@
       "pts": 6
     },
     {
-      "team": "Paraguay",
-      "flag": "🇵🇾",
-      "played": 3,
-      "won": 2,
-      "drawn": 0,
-      "lost": 1,
-      "gf": 3,
-      "ga": 4,
-      "pts": 6
-    },
-    {
       "team": "Australia",
       "flag": "🇦🇺",
       "played": 2,
@@ -172,14 +161,25 @@
       "pts": 3
     },
     {
+      "team": "Paraguay",
+      "flag": "🇵🇾",
+      "played": 2,
+      "won": 1,
+      "drawn": 0,
+      "lost": 1,
+      "gf": 2,
+      "ga": 4,
+      "pts": 3
+    },
+    {
       "team": "Turkey",
       "flag": "🇹🇷",
-      "played": 3,
+      "played": 2,
       "won": 0,
       "drawn": 0,
-      "lost": 3,
+      "lost": 2,
       "gf": 0,
-      "ga": 4,
+      "ga": 3,
       "pts": 0
     }
   ],
@@ -437,25 +437,25 @@
       "pts": 3
     },
     {
-      "team": "Jordan",
-      "flag": "🇯🇴",
-      "played": 1,
-      "won": 0,
-      "drawn": 0,
-      "lost": 1,
-      "gf": 1,
-      "ga": 3,
-      "pts": 0
-    },
-    {
       "team": "Algeria",
       "flag": "🇩🇿",
-      "played": 1,
-      "won": 0,
+      "played": 2,
+      "won": 1,
       "drawn": 0,
       "lost": 1,
-      "gf": 0,
-      "ga": 3,
+      "gf": 2,
+      "ga": 4,
+      "pts": 3
+    },
+    {
+      "team": "Jordan",
+      "flag": "🇯🇴",
+      "played": 2,
+      "won": 0,
+      "drawn": 0,
+      "lost": 2,
+      "gf": 2,
+      "ga": 5,
       "pts": 0
     }
   ],
