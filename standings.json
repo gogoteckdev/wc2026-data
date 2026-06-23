@@ -150,6 +150,17 @@
       "pts": 6
     },
     {
+      "team": "Paraguay",
+      "flag": "🇵🇾",
+      "played": 3,
+      "won": 2,
+      "drawn": 0,
+      "lost": 1,
+      "gf": 3,
+      "ga": 4,
+      "pts": 6
+    },
+    {
       "team": "Australia",
       "flag": "🇦🇺",
       "played": 2,
@@ -161,25 +172,14 @@
       "pts": 3
     },
     {
-      "team": "Paraguay",
-      "flag": "🇵🇾",
-      "played": 2,
-      "won": 1,
-      "drawn": 0,
-      "lost": 1,
-      "gf": 2,
-      "ga": 4,
-      "pts": 3
-    },
-    {
       "team": "Turkey",
       "flag": "🇹🇷",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 0,
-      "lost": 2,
+      "lost": 3,
       "gf": 0,
-      "ga": 3,
+      "ga": 4,
       "pts": 0
     }
   ],
