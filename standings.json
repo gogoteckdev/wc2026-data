@@ -509,24 +509,24 @@
     {
       "team": "England",
       "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "played": 1,
+      "played": 2,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
       "gf": 4,
       "ga": 2,
-      "pts": 3
+      "pts": 4
     },
     {
       "team": "Ghana",
       "flag": "🇬🇭",
-      "played": 1,
+      "played": 2,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 0,
       "gf": 1,
       "ga": 0,
-      "pts": 3
+      "pts": 4
     },
     {
       "team": "Panama",
