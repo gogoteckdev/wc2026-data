@@ -148,7 +148,7 @@
     "awayScore": 2
   },
   "g38": {
-    "homeScore": 5,
+    "homeScore": 4,
     "awayScore": 0
   },
   "g39": {
@@ -174,5 +174,9 @@
   "g44": {
     "homeScore": 1,
     "awayScore": 2
+  },
+  "g47": {
+    "homeScore": 5,
+    "awayScore": 0
   }
 }
