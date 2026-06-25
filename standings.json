@@ -95,13 +95,13 @@
     {
       "team": "Brazil",
       "flag": "🇧🇷",
-      "played": 2,
-      "won": 1,
+      "played": 3,
+      "won": 2,
       "drawn": 1,
       "lost": 0,
-      "gf": 4,
+      "gf": 7,
       "ga": 1,
-      "pts": 4
+      "pts": 7
     },
     {
       "team": "Morocco",
@@ -117,12 +117,12 @@
     {
       "team": "Scotland",
       "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
-      "played": 2,
+      "played": 3,
       "won": 1,
       "drawn": 0,
-      "lost": 1,
+      "lost": 2,
       "gf": 1,
-      "ga": 1,
+      "ga": 4,
       "pts": 3
     },
     {
