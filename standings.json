@@ -198,13 +198,13 @@
     {
       "team": "Ivory Coast",
       "flag": "🇨🇮",
-      "played": 2,
-      "won": 1,
+      "played": 3,
+      "won": 2,
       "drawn": 0,
       "lost": 1,
-      "gf": 2,
+      "gf": 4,
       "ga": 2,
-      "pts": 3
+      "pts": 6
     },
     {
       "team": "Ecuador",
@@ -220,12 +220,12 @@
     {
       "team": "Curaçao",
       "flag": "🇨🇼",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 1,
-      "lost": 1,
+      "lost": 2,
       "gf": 1,
-      "ga": 7,
+      "ga": 9,
       "pts": 1
     }
   ],
