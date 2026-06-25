@@ -71,23 +71,23 @@
     {
       "team": "Bosnia/Herzeg.",
       "flag": "🇧🇦",
-      "played": 2,
-      "won": 0,
+      "played": 3,
+      "won": 1,
       "drawn": 1,
       "lost": 1,
-      "gf": 2,
-      "ga": 5,
-      "pts": 1
+      "gf": 5,
+      "ga": 6,
+      "pts": 4
     },
     {
       "team": "Qatar",
       "flag": "🇶🇦",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 1,
-      "lost": 1,
-      "gf": 1,
-      "ga": 7,
+      "lost": 2,
+      "gf": 2,
+      "ga": 10,
       "pts": 1
     }
   ],
