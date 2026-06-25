@@ -3,13 +3,13 @@
     {
       "team": "Mexico",
       "flag": "🇲🇽",
-      "played": 2,
-      "won": 2,
+      "played": 3,
+      "won": 3,
       "drawn": 0,
       "lost": 0,
-      "gf": 3,
+      "gf": 6,
       "ga": 0,
-      "pts": 6
+      "pts": 9
     },
     {
       "team": "Rep. of Korea",
@@ -23,17 +23,6 @@
       "pts": 3
     },
     {
-      "team": "Czech Rep.",
-      "flag": "🇨🇿",
-      "played": 2,
-      "won": 0,
-      "drawn": 1,
-      "lost": 1,
-      "gf": 2,
-      "ga": 3,
-      "pts": 1
-    },
-    {
       "team": "South Africa",
       "flag": "🇿🇦",
       "played": 2,
@@ -42,6 +31,17 @@
       "lost": 1,
       "gf": 1,
       "ga": 3,
+      "pts": 1
+    },
+    {
+      "team": "Czech Rep.",
+      "flag": "🇨🇿",
+      "played": 3,
+      "won": 0,
+      "drawn": 1,
+      "lost": 2,
+      "gf": 2,
+      "ga": 6,
       "pts": 1
     }
   ],
