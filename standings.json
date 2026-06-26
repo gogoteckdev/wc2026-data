@@ -152,13 +152,24 @@
     {
       "team": "Australia",
       "flag": "🇦🇺",
-      "played": 2,
+      "played": 3,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 1,
       "gf": 2,
       "ga": 2,
-      "pts": 3
+      "pts": 4
+    },
+    {
+      "team": "Paraguay",
+      "flag": "🇵🇾",
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "gf": 2,
+      "ga": 4,
+      "pts": 4
     },
     {
       "team": "Turkey",
@@ -169,17 +180,6 @@
       "lost": 2,
       "gf": 3,
       "ga": 5,
-      "pts": 3
-    },
-    {
-      "team": "Paraguay",
-      "flag": "🇵🇾",
-      "played": 2,
-      "won": 1,
-      "drawn": 0,
-      "lost": 1,
-      "gf": 2,
-      "ga": 4,
       "pts": 3
     }
   ],
