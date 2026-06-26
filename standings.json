@@ -393,23 +393,23 @@
     {
       "team": "Senegal",
       "flag": "🇸🇳",
-      "played": 2,
-      "won": 0,
+      "played": 3,
+      "won": 1,
       "drawn": 0,
       "lost": 2,
-      "gf": 3,
+      "gf": 8,
       "ga": 6,
-      "pts": 0
+      "pts": 3
     },
     {
       "team": "Iraq",
       "flag": "🇮🇶",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 0,
-      "lost": 2,
+      "lost": 3,
       "gf": 1,
-      "ga": 7,
+      "ga": 12,
       "pts": 0
     }
   ],
