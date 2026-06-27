@@ -250,5 +250,9 @@
   "g65": {
     "homeScore": 0,
     "awayScore": 0
+  },
+  "g66": {
+    "homeScore": 0,
+    "awayScore": 1
   }
 }

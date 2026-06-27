@@ -325,13 +325,13 @@
     {
       "team": "Spain",
       "flag": "🇪🇸",
-      "played": 2,
-      "won": 1,
+      "played": 3,
+      "won": 2,
       "drawn": 1,
       "lost": 0,
-      "gf": 4,
+      "gf": 5,
       "ga": 0,
-      "pts": 4
+      "pts": 7
     },
     {
       "team": "Cape Verde",
@@ -347,12 +347,12 @@
     {
       "team": "Uruguay",
       "flag": "🇺🇾",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 2,
-      "lost": 0,
+      "lost": 1,
       "gf": 3,
-      "ga": 3,
+      "ga": 4,
       "pts": 2
     },
     {
