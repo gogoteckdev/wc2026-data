@@ -282,5 +282,101 @@
   "g72": {
     "homeScore": 3,
     "awayScore": 1
+  },
+  "r32m01": {
+    "homeTeam": "Canada",
+    "awayTeam": "South Africa",
+    "homeFlag": "🇨🇦",
+    "awayFlag": "🇿🇦"
+  },
+  "r32m02": {
+    "homeTeam": "Germany",
+    "awayTeam": "Paraguay",
+    "homeFlag": "🇩🇪",
+    "awayFlag": "🇵🇾"
+  },
+  "r32m03": {
+    "homeTeam": "Netherlands",
+    "awayTeam": "Morocco",
+    "homeFlag": "🇳🇱",
+    "awayFlag": "🇲🇦"
+  },
+  "r32m04": {
+    "homeTeam": "Brazil",
+    "awayTeam": "Japan",
+    "homeFlag": "🇧🇷",
+    "awayFlag": "🇯🇵"
+  },
+  "r32m05": {
+    "homeTeam": "France",
+    "awayTeam": "Sweden",
+    "homeFlag": "🇫🇷",
+    "awayFlag": "🇸🇪"
+  },
+  "r32m06": {
+    "homeTeam": "Ivory Coast",
+    "awayTeam": "Norway",
+    "homeFlag": "🇨🇮",
+    "awayFlag": "🇳🇴"
+  },
+  "r32m07": {
+    "homeTeam": "Mexico",
+    "awayTeam": "Ecuador",
+    "homeFlag": "🇲🇽",
+    "awayFlag": "🇪🇨"
+  },
+  "r32m08": {
+    "homeTeam": "England",
+    "awayTeam": "DR Congo",
+    "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "awayFlag": "🇨🇩"
+  },
+  "r32m09": {
+    "homeTeam": "USA",
+    "awayTeam": "Bosnia/Herzeg.",
+    "homeFlag": "🇺🇸",
+    "awayFlag": "🇧🇦"
+  },
+  "r32m10": {
+    "homeTeam": "Belgium",
+    "awayTeam": "Senegal",
+    "homeFlag": "🇧🇪",
+    "awayFlag": "🇸🇳"
+  },
+  "r32m11": {
+    "homeTeam": "Portugal",
+    "awayTeam": "Croatia",
+    "homeFlag": "🇵🇹",
+    "awayFlag": "🇭🇷"
+  },
+  "r32m12": {
+    "homeTeam": "Spain",
+    "awayTeam": "Austria",
+    "homeFlag": "🇪🇸",
+    "awayFlag": "🇦🇹"
+  },
+  "r32m13": {
+    "homeTeam": "Switzerland",
+    "awayTeam": "Algeria",
+    "homeFlag": "🇨🇭",
+    "awayFlag": "🇩🇿"
+  },
+  "r32m14": {
+    "homeTeam": "Argentina",
+    "awayTeam": "Cape Verde",
+    "homeFlag": "🇦🇷",
+    "awayFlag": "🇨🇻"
+  },
+  "r32m15": {
+    "homeTeam": "Colombia",
+    "awayTeam": "Ghana",
+    "homeFlag": "🇨🇴",
+    "awayFlag": "🇬🇭"
+  },
+  "r32m16": {
+    "homeTeam": "Egypt",
+    "awayTeam": "Australia",
+    "homeFlag": "🇪🇬",
+    "awayFlag": "🇦🇺"
   }
 }
