@@ -485,23 +485,23 @@
     {
       "team": "DR Congo",
       "flag": "🇨🇩",
-      "played": 2,
-      "won": 0,
+      "played": 3,
+      "won": 1,
       "drawn": 1,
       "lost": 1,
-      "gf": 1,
-      "ga": 2,
-      "pts": 1
+      "gf": 4,
+      "ga": 3,
+      "pts": 4
     },
     {
       "team": "Uzbekistan",
       "flag": "🇺🇿",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 0,
-      "lost": 2,
-      "gf": 1,
-      "ga": 8,
+      "lost": 3,
+      "gf": 2,
+      "ga": 11,
       "pts": 0
     }
   ],

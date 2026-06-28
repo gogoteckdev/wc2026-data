@@ -274,5 +274,9 @@
   "g71": {
     "homeScore": 0,
     "awayScore": 0
+  },
+  "g72": {
+    "homeScore": 3,
+    "awayScore": 1
   }
 }
