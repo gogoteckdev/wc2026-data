@@ -288,26 +288,26 @@
       "pts": 5
     },
     {
-      "team": "IR Iran",
-      "flag": "🇮🇷",
-      "played": 3,
-      "won": 1,
-      "drawn": 2,
-      "lost": 0,
-      "gf": 4,
-      "ga": 3,
-      "pts": 5
-    },
-    {
       "team": "Egypt",
       "flag": "🇪🇬",
       "played": 3,
       "won": 1,
-      "drawn": 1,
-      "lost": 1,
+      "drawn": 2,
+      "lost": 0,
       "gf": 5,
-      "ga": 4,
-      "pts": 4
+      "ga": 3,
+      "pts": 5
+    },
+    {
+      "team": "IR Iran",
+      "flag": "🇮🇷",
+      "played": 3,
+      "won": 0,
+      "drawn": 3,
+      "lost": 0,
+      "gf": 3,
+      "ga": 3,
+      "pts": 3
     },
     {
       "team": "New Zealand",
@@ -428,24 +428,24 @@
     {
       "team": "Austria",
       "flag": "🇦🇹",
-      "played": 2,
+      "played": 3,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 1,
-      "gf": 3,
-      "ga": 3,
-      "pts": 3
+      "gf": 6,
+      "ga": 6,
+      "pts": 4
     },
     {
       "team": "Algeria",
       "flag": "🇩🇿",
-      "played": 2,
+      "played": 3,
       "won": 1,
-      "drawn": 0,
+      "drawn": 1,
       "lost": 1,
-      "gf": 2,
-      "ga": 4,
-      "pts": 3
+      "gf": 5,
+      "ga": 7,
+      "pts": 4
     },
     {
       "team": "Jordan",
