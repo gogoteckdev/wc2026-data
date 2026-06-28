@@ -518,26 +518,26 @@
       "pts": 7
     },
     {
-      "team": "Ghana",
-      "flag": "🇬🇭",
-      "played": 2,
-      "won": 1,
-      "drawn": 1,
-      "lost": 0,
-      "gf": 1,
-      "ga": 0,
-      "pts": 4
-    },
-    {
       "team": "Croatia",
       "flag": "🇭🇷",
-      "played": 2,
-      "won": 1,
+      "played": 3,
+      "won": 2,
       "drawn": 0,
       "lost": 1,
-      "gf": 3,
-      "ga": 4,
-      "pts": 3
+      "gf": 5,
+      "ga": 5,
+      "pts": 6
+    },
+    {
+      "team": "Ghana",
+      "flag": "🇬🇭",
+      "played": 3,
+      "won": 1,
+      "drawn": 1,
+      "lost": 1,
+      "gf": 2,
+      "ga": 2,
+      "pts": 4
     },
     {
       "team": "Panama",
