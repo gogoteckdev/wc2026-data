@@ -417,13 +417,13 @@
     {
       "team": "Argentina",
       "flag": "🇦🇷",
-      "played": 2,
-      "won": 2,
+      "played": 3,
+      "won": 3,
       "drawn": 0,
       "lost": 0,
-      "gf": 5,
-      "ga": 0,
-      "pts": 6
+      "gf": 8,
+      "ga": 1,
+      "pts": 9
     },
     {
       "team": "Austria",
@@ -450,12 +450,12 @@
     {
       "team": "Jordan",
       "flag": "🇯🇴",
-      "played": 2,
+      "played": 3,
       "won": 0,
       "drawn": 0,
-      "lost": 2,
-      "gf": 2,
-      "ga": 5,
+      "lost": 3,
+      "gf": 3,
+      "ga": 8,
       "pts": 0
     }
   ],
