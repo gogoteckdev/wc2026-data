@@ -295,6 +295,14 @@
     "homeScore": 0,
     "awayScore": 1
   },
+  "r32m02": {
+    "homeTeam": "Germany",
+    "awayTeam": "Paraguay",
+    "homeFlag": "🇩🇪",
+    "awayFlag": "🇵🇾",
+    "homeScore": 4,
+    "awayScore": 5
+  },
   "r32m04": {
     "homeTeam": "Brazil",
     "awayTeam": "Japan",
