@@ -303,6 +303,14 @@
     "homeScore": 4,
     "awayScore": 5
   },
+  "r32m03": {
+    "homeTeam": "Netherlands",
+    "awayTeam": "Morocco",
+    "homeFlag": "🇳🇱",
+    "awayFlag": "🇲🇦",
+    "homeScore": 3,
+    "awayScore": 4
+  },
   "r32m04": {
     "homeTeam": "Brazil",
     "awayTeam": "Japan",
