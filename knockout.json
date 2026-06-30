@@ -41,7 +41,9 @@
     "homeTeam": "Ivory Coast",
     "awayTeam": "Norway",
     "homeFlag": "🇨🇮",
-    "awayFlag": "🇳🇴"
+    "awayFlag": "🇳🇴",
+    "homeScore": 1,
+    "awayScore": 2
   },
   "r32m07": {
     "homeTeam": "Mexico",
