@@ -1,292 +1,4 @@
 {
-  "g01": {
-    "homeScore": 2,
-    "awayScore": 0
-  },
-  "g02": {
-    "homeScore": 2,
-    "awayScore": 1
-  },
-  "g03": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g04": {
-    "homeScore": 4,
-    "awayScore": 1
-  },
-  "g05": {
-    "homeScore": 0,
-    "awayScore": 1
-  },
-  "g06": {
-    "homeScore": 2,
-    "awayScore": 0
-  },
-  "g07": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g08": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g09": {
-    "homeScore": 1,
-    "awayScore": 0
-  },
-  "g10": {
-    "homeScore": 7,
-    "awayScore": 1
-  },
-  "g11": {
-    "homeScore": 2,
-    "awayScore": 2
-  },
-  "g12": {
-    "homeScore": 5,
-    "awayScore": 1
-  },
-  "g13": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g14": {
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  "g15": {
-    "homeScore": 2,
-    "awayScore": 2
-  },
-  "g16": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g17": {
-    "homeScore": 3,
-    "awayScore": 1
-  },
-  "g18": {
-    "homeScore": 1,
-    "awayScore": 4
-  },
-  "g19": {
-    "homeScore": 3,
-    "awayScore": 0
-  },
-  "g20": {
-    "homeScore": 3,
-    "awayScore": 1
-  },
-  "g21": {
-    "homeScore": 1,
-    "awayScore": 0
-  },
-  "g22": {
-    "homeScore": 4,
-    "awayScore": 2
-  },
-  "g23": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g24": {
-    "homeScore": 1,
-    "awayScore": 3
-  },
-  "g25": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g26": {
-    "homeScore": 4,
-    "awayScore": 1
-  },
-  "g27": {
-    "homeScore": 6,
-    "awayScore": 0
-  },
-  "g28": {
-    "homeScore": 1,
-    "awayScore": 0
-  },
-  "g29": {
-    "homeScore": 3,
-    "awayScore": 0
-  },
-  "g30": {
-    "homeScore": 0,
-    "awayScore": 1
-  },
-  "g31": {
-    "homeScore": 0,
-    "awayScore": 1
-  },
-  "g32": {
-    "homeScore": 2,
-    "awayScore": 0
-  },
-  "g33": {
-    "homeScore": 2,
-    "awayScore": 1
-  },
-  "g34": {
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  "g35": {
-    "homeScore": 5,
-    "awayScore": 1
-  },
-  "g36": {
-    "homeScore": 0,
-    "awayScore": 4
-  },
-  "g37": {
-    "homeScore": 2,
-    "awayScore": 2
-  },
-  "g38": {
-    "homeScore": 4,
-    "awayScore": 0
-  },
-  "g39": {
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  "g40": {
-    "homeScore": 1,
-    "awayScore": 3
-  },
-  "g41": {
-    "homeScore": 3,
-    "awayScore": 2
-  },
-  "g42": {
-    "homeScore": 3,
-    "awayScore": 0
-  },
-  "g43": {
-    "homeScore": 2,
-    "awayScore": 0
-  },
-  "g44": {
-    "homeScore": 1,
-    "awayScore": 2
-  },
-  "g45": {
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  "g46": {
-    "homeScore": 0,
-    "awayScore": 1
-  },
-  "g47": {
-    "homeScore": 5,
-    "awayScore": 0
-  },
-  "g48": {
-    "homeScore": 1,
-    "awayScore": 0
-  },
-  "g49": {
-    "homeScore": 0,
-    "awayScore": 3
-  },
-  "g50": {
-    "homeScore": 4,
-    "awayScore": 2
-  },
-  "g51": {
-    "homeScore": 2,
-    "awayScore": 1
-  },
-  "g52": {
-    "homeScore": 3,
-    "awayScore": 1
-  },
-  "g53": {
-    "homeScore": 0,
-    "awayScore": 3
-  },
-  "g54": {
-    "homeScore": 1,
-    "awayScore": 0
-  },
-  "g55": {
-    "homeScore": 0,
-    "awayScore": 2
-  },
-  "g56": {
-    "homeScore": 2,
-    "awayScore": 1
-  },
-  "g57": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g58": {
-    "homeScore": 1,
-    "awayScore": 3
-  },
-  "g59": {
-    "homeScore": 3,
-    "awayScore": 2
-  },
-  "g60": {
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  "g61": {
-    "homeScore": 1,
-    "awayScore": 4
-  },
-  "g62": {
-    "homeScore": 5,
-    "awayScore": 0
-  },
-  "g63": {
-    "homeScore": 1,
-    "awayScore": 1
-  },
-  "g64": {
-    "homeScore": 1,
-    "awayScore": 5
-  },
-  "g65": {
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  "g66": {
-    "homeScore": 0,
-    "awayScore": 1
-  },
-  "g67": {
-    "homeScore": 0,
-    "awayScore": 2
-  },
-  "g68": {
-    "homeScore": 2,
-    "awayScore": 1
-  },
-  "g69": {
-    "homeScore": 3,
-    "awayScore": 3
-  },
-  "g70": {
-    "homeScore": 1,
-    "awayScore": 3
-  },
-  "g71": {
-    "homeScore": 0,
-    "awayScore": 0
-  },
-  "g72": {
-    "homeScore": 3,
-    "awayScore": 1
-  },
   "r32m01": {
     "homeTeam": "South Africa",
     "awayTeam": "Canada",
@@ -318,5 +30,83 @@
     "awayFlag": "🇯🇵",
     "homeScore": 2,
     "awayScore": 1
+  },
+  "r32m05": {
+    "homeTeam": "France",
+    "awayTeam": "Sweden",
+    "homeFlag": "🇫🇷",
+    "awayFlag": "🇸🇪"
+  },
+  "r32m06": {
+    "homeTeam": "Ivory Coast",
+    "awayTeam": "Norway",
+    "homeFlag": "🇨🇮",
+    "awayFlag": "🇳🇴"
+  },
+  "r32m07": {
+    "homeTeam": "Mexico",
+    "awayTeam": "Ecuador",
+    "homeFlag": "🇲🇽",
+    "awayFlag": "🇪🇨"
+  },
+  "r32m08": {
+    "homeTeam": "England",
+    "awayTeam": "DR Congo",
+    "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "awayFlag": "🇨🇩"
+  },
+  "r32m09": {
+    "homeTeam": "USA",
+    "awayTeam": "Bosnia/Herzeg.",
+    "homeFlag": "🇺🇸",
+    "awayFlag": "🇧🇦"
+  },
+  "r32m10": {
+    "homeTeam": "Belgium",
+    "awayTeam": "Senegal",
+    "homeFlag": "🇧🇪",
+    "awayFlag": "🇸🇳"
+  },
+  "r32m11": {
+    "homeTeam": "Portugal",
+    "awayTeam": "Croatia",
+    "homeFlag": "🇵🇹",
+    "awayFlag": "🇭🇷"
+  },
+  "r32m12": {
+    "homeTeam": "Spain",
+    "awayTeam": "Austria",
+    "homeFlag": "🇪🇸",
+    "awayFlag": "🇦🇹"
+  },
+  "r32m13": {
+    "homeTeam": "Switzerland",
+    "awayTeam": "Algeria",
+    "homeFlag": "🇨🇭",
+    "awayFlag": "🇩🇿"
+  },
+  "r32m14": {
+    "homeTeam": "Argentina",
+    "awayTeam": "Cape Verde",
+    "homeFlag": "🇦🇷",
+    "awayFlag": "🇨🇻"
+  },
+  "r32m15": {
+    "homeTeam": "Colombia",
+    "awayTeam": "Ghana",
+    "homeFlag": "🇨🇴",
+    "awayFlag": "🇬🇭"
+  },
+  "r32m16": {
+    "homeTeam": "Australia",
+    "awayTeam": "Egypt",
+    "homeFlag": "🇦🇺",
+    "awayFlag": "🇪🇬"
+  },
+  "r16m2": {
+    "homeTeam": "Canada",
+    "awayTeam": "Morocco",
+    "homeFlag": "🇨🇦",
+    "awayFlag": "🇲🇦"
   }
 }
