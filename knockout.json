@@ -59,7 +59,9 @@
     "homeTeam": "England",
     "awayTeam": "DR Congo",
     "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "awayFlag": "🇨🇩"
+    "awayFlag": "🇨🇩",
+    "homeScore": 2,
+    "awayScore": 1
   },
   "r32m09": {
     "homeTeam": "USA",
