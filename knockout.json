@@ -51,7 +51,9 @@
     "homeTeam": "Mexico",
     "awayTeam": "Ecuador",
     "homeFlag": "🇲🇽",
-    "awayFlag": "🇪🇨"
+    "awayFlag": "🇪🇨",
+    "homeScore": 2,
+    "awayScore": 0
   },
   "r32m08": {
     "homeTeam": "England",
