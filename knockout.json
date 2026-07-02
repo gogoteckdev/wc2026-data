@@ -89,7 +89,9 @@
     "homeTeam": "Spain",
     "awayTeam": "Austria",
     "homeFlag": "🇪🇸",
-    "awayFlag": "🇦🇹"
+    "awayFlag": "🇦🇹",
+    "homeScore": 3,
+    "awayScore": 0
   },
   "r32m13": {
     "homeTeam": "Switzerland",
