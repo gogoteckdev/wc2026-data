@@ -67,7 +67,9 @@
     "homeTeam": "USA",
     "awayTeam": "Bosnia/Herzeg.",
     "homeFlag": "🇺🇸",
-    "awayFlag": "🇧🇦"
+    "awayFlag": "🇧🇦",
+    "homeScore": 2,
+    "awayScore": 0
   },
   "r32m10": {
     "homeTeam": "Belgium",
