@@ -119,7 +119,9 @@
     "homeTeam": "Australia",
     "awayTeam": "Egypt",
     "homeFlag": "🇦🇺",
-    "awayFlag": "🇪🇬"
+    "awayFlag": "🇪🇬",
+    "homeScore": 3,
+    "awayScore": 5
   },
   "r16m1": {
     "homeTeam": "Paraguay",
