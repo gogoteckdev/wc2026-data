@@ -99,7 +99,9 @@
     "homeTeam": "Switzerland",
     "awayTeam": "Algeria",
     "homeFlag": "🇨🇭",
-    "awayFlag": "🇩🇿"
+    "awayFlag": "🇩🇿",
+    "homeScore": 2,
+    "awayScore": 0
   },
   "r32m14": {
     "homeTeam": "Argentina",
