@@ -83,7 +83,9 @@
     "homeTeam": "Portugal",
     "awayTeam": "Croatia",
     "homeFlag": "🇵🇹",
-    "awayFlag": "🇭🇷"
+    "awayFlag": "🇭🇷",
+    "homeScore": 2,
+    "awayScore": 1
   },
   "r32m12": {
     "homeTeam": "Spain",
