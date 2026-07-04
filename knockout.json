@@ -168,5 +168,11 @@
     "awayTeam": "Egypt",
     "homeFlag": "🇦🇷",
     "awayFlag": "🇪🇬"
+  },
+  "r16m8": {
+    "homeTeam": "Switzerland",
+    "awayTeam": "Colombia",
+    "homeFlag": "🇨🇭",
+    "awayFlag": "🇨🇴"
   }
 }
