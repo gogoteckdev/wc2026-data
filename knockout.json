@@ -131,7 +131,9 @@
     "homeTeam": "Paraguay",
     "awayTeam": "France",
     "homeFlag": "🇵🇾",
-    "awayFlag": "🇫🇷"
+    "awayFlag": "🇫🇷",
+    "homeScore": 0,
+    "awayScore": 1
   },
   "r16m2": {
     "homeTeam": "Canada",
