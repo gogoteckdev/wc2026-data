@@ -107,7 +107,9 @@
     "homeTeam": "Argentina",
     "awayTeam": "Cape Verde",
     "homeFlag": "🇦🇷",
-    "awayFlag": "🇨🇻"
+    "awayFlag": "🇨🇻",
+    "homeScore": 3,
+    "awayScore": 2
   },
   "r32m15": {
     "homeTeam": "Colombia",
