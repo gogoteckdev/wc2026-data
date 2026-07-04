@@ -115,7 +115,9 @@
     "homeTeam": "Colombia",
     "awayTeam": "Ghana",
     "homeFlag": "🇨🇴",
-    "awayFlag": "🇬🇭"
+    "awayFlag": "🇬🇭",
+    "homeScore": 1,
+    "awayScore": 0
   },
   "r32m16": {
     "homeTeam": "Australia",
