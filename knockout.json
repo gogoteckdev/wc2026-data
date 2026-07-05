@@ -178,5 +178,11 @@
     "awayTeam": "Colombia",
     "homeFlag": "🇨🇭",
     "awayFlag": "🇨🇴"
+  },
+  "qf1": {
+    "homeTeam": "France",
+    "awayTeam": "Morocco",
+    "homeFlag": "🇫🇷",
+    "awayFlag": "🇲🇦"
   }
 }
