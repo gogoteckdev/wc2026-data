@@ -147,7 +147,9 @@
     "homeTeam": "Brazil",
     "awayTeam": "Norway",
     "homeFlag": "🇧🇷",
-    "awayFlag": "🇳🇴"
+    "awayFlag": "🇳🇴",
+    "homeScore": 1,
+    "awayScore": 2
   },
   "r16m4": {
     "homeTeam": "Mexico",
