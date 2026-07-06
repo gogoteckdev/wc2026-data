@@ -163,7 +163,9 @@
     "homeTeam": "Portugal",
     "awayTeam": "Spain",
     "homeFlag": "🇵🇹",
-    "awayFlag": "🇪🇸"
+    "awayFlag": "🇪🇸",
+    "homeScore": 0,
+    "awayScore": 1
   },
   "r16m6": {
     "homeTeam": "USA",
