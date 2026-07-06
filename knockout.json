@@ -155,7 +155,9 @@
     "homeTeam": "Mexico",
     "awayTeam": "England",
     "homeFlag": "🇲🇽",
-    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "homeScore": 2,
+    "awayScore": 3
   },
   "r16m5": {
     "homeTeam": "Portugal",
