@@ -188,5 +188,11 @@
     "awayTeam": "Morocco",
     "homeFlag": "🇫🇷",
     "awayFlag": "🇲🇦"
+  },
+  "qf3": {
+    "homeTeam": "Norway",
+    "awayTeam": "England",
+    "homeFlag": "🇳🇴",
+    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
   }
 }
