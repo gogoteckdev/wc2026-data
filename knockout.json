@@ -193,6 +193,12 @@
     "homeFlag": "🇫🇷",
     "awayFlag": "🇲🇦"
   },
+  "qf2": {
+    "homeTeam": "Spain",
+    "awayTeam": "Belgium",
+    "homeFlag": "🇪🇸",
+    "awayFlag": "🇧🇪"
+  },
   "qf3": {
     "homeTeam": "Norway",
     "awayTeam": "England",
