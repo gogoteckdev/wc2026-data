@@ -171,7 +171,9 @@
     "homeTeam": "USA",
     "awayTeam": "Belgium",
     "homeFlag": "🇺🇸",
-    "awayFlag": "🇧🇪"
+    "awayFlag": "🇧🇪",
+    "homeScore": 1,
+    "awayScore": 4
   },
   "r16m7": {
     "homeTeam": "Argentina",
