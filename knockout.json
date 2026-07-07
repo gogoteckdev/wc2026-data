@@ -179,7 +179,9 @@
     "homeTeam": "Argentina",
     "awayTeam": "Egypt",
     "homeFlag": "🇦🇷",
-    "awayFlag": "🇪🇬"
+    "awayFlag": "🇪🇬",
+    "homeScore": 3,
+    "awayScore": 2
   },
   "r16m8": {
     "homeTeam": "Switzerland",
