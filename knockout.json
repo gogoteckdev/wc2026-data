@@ -208,5 +208,11 @@
     "awayTeam": "England",
     "homeFlag": "🇳🇴",
     "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  "qf4": {
+    "homeTeam": "Argentina",
+    "awayTeam": "Switzerland",
+    "homeFlag": "🇦🇷",
+    "awayFlag": "🇨🇭"
   }
 }
