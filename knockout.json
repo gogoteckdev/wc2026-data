@@ -195,7 +195,9 @@
     "homeTeam": "France",
     "awayTeam": "Morocco",
     "homeFlag": "🇫🇷",
-    "awayFlag": "🇲🇦"
+    "awayFlag": "🇲🇦",
+    "homeScore": 2,
+    "awayScore": 0
   },
   "qf2": {
     "homeTeam": "Spain",
