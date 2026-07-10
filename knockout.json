@@ -218,5 +218,11 @@
     "awayTeam": "Switzerland",
     "homeFlag": "🇦🇷",
     "awayFlag": "🇨🇭"
+  },
+  "sf1": {
+    "homeTeam": "France",
+    "awayTeam": "Spain",
+    "homeFlag": "🇫🇷",
+    "awayFlag": "🇪🇸"
   }
 }
