@@ -211,7 +211,9 @@
     "homeTeam": "Norway",
     "awayTeam": "England",
     "homeFlag": "🇳🇴",
-    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "homeScore": 1,
+    "awayScore": 2
   },
   "qf4": {
     "homeTeam": "Argentina",
