@@ -227,7 +227,9 @@
     "homeTeam": "France",
     "awayTeam": "Spain",
     "homeFlag": "🇫🇷",
-    "awayFlag": "🇪🇸"
+    "awayFlag": "🇪🇸",
+    "homeScore": 0,
+    "awayScore": 2
   },
   "sf2": {
     "homeTeam": "England",
