@@ -238,5 +238,11 @@
     "awayFlag": "🇦🇷",
     "homeScore": 1,
     "awayScore": 2
+  },
+  "3rd": {
+    "homeTeam": "France",
+    "awayTeam": "England",
+    "homeFlag": "🇫🇷",
+    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
   }
 }
