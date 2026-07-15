@@ -244,5 +244,11 @@
     "awayTeam": "England",
     "homeFlag": "🇫🇷",
     "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+  },
+  "fin": {
+    "homeTeam": "Spain",
+    "awayTeam": "Argentina",
+    "homeFlag": "🇪🇸",
+    "awayFlag": "🇦🇷"
   }
 }
