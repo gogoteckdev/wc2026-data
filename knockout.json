@@ -235,6 +235,8 @@
     "homeTeam": "England",
     "awayTeam": "Argentina",
     "homeFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "awayFlag": "🇦🇷"
+    "awayFlag": "🇦🇷",
+    "homeScore": 1,
+    "awayScore": 2
   }
 }
