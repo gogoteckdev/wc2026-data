@@ -243,7 +243,9 @@
     "homeTeam": "France",
     "awayTeam": "England",
     "homeFlag": "🇫🇷",
-    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    "awayFlag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "homeScore": 4,
+    "awayScore": 6
   },
   "fin": {
     "homeTeam": "Spain",
